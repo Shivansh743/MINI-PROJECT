@@ -1,3 +1,3 @@
-# CLA-P4--MINI-PROJECT
+# MINI-PROJECT
 <br>
 Author: Shivansh Singh
